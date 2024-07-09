@@ -32,6 +32,9 @@ In conclusion, this project has provided valuable insight into the dynamics of o
 By following these steps, patterns in customer preferences and purchasing habits can be identified, highlighted the impact of product assortment on sales performance, and developed predictive models to forecast future trends and optimize business strategies.
 
 Notes:
+
 Dataset source from Kaggle
+
 Link Project:
+
 https://drive.google.com/drive/folders/14PQiJN4YvAtkt3zLidTtSpXLsDkKNty1?usp=sharing
